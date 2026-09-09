@@ -1,5 +1,5 @@
 ﻿{
-  "name": "knownasrazi/laravel-cream",
-  "description": "Laravel cream - elegant PHP starter with cream views and auth.",
+  "name": "knownasrazi/laravel-clean",
+  "description": "Laravel clean - elegant PHP starter with clean views and auth.",
   "require": { "php": "^8.2" }
 }
